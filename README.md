@@ -1,8 +1,8 @@
 # Galactic Unicorn utils
 
-## Stand alone scripts
+## [Stand alone scripts](https://github.com/TonyKennick/galactic-unicorn/tree/main/stand-alone)
 
-- Popname generator
+- [Popname generator](https://github.com/TonyKennick/galactic-unicorn/blob/main/stand-alone/popname.py)
 
 Based on long forgotten BBS technology. 
 Will scroll various coloured messages across you galactic unicorn.
